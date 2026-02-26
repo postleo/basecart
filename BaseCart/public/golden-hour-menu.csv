@@ -1,0 +1,19 @@
+name,description,price,category
+Americano,Double shot with hot water,4.50,espresso
+Cappuccino,"Espresso, steamed milk, foam",5.00,espresso
+Flat White,"Ristretto shots, microfoam",5.50,espresso
+Latte,Espresso with steamed milk,5.00,espresso
+Mocha,"Espresso, chocolate, steamed milk",5.50,espresso
+Macchiato,Espresso marked with foam,4.00,espresso
+Classic Cold Brew,Smooth 16-hour cold brew,4.50,cold-brew
+Vanilla Cold Brew,Cold brew with vanilla syrup,5.00,cold-brew
+Nitro Cold Brew,Nitrogen-infused smoothness,6.00,cold-brew
+Butter Croissant,"Flaky, buttery perfection",3.50,pastries
+Almond Croissant,Filled with almond cream,4.50,pastries
+Cinnamon Roll,Warm with cream cheese frosting,4.00,pastries
+Blueberry Muffin,Fresh baked daily,3.00,pastries
+Chocolate Chip Cookie,Chewy and delicious,2.50,pastries
+Banana Bread,Moist with walnuts,3.50,pastries
+Golden Hour Mug,Ceramic 12oz coffee mug,12.00,merchandise
+Coffee Beans,House blend 12oz bag,15.00,merchandise
+Branded T-Shirt,100% organic cotton,20.00,merchandise

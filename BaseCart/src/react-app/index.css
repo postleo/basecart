@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #FF6B35;
+  --secondary: #1A4D3E;
+  --bg: #F5E6D3;
+  --grid-line: #E0D4C0;
+  --text: #2C2C2C;
+  --card-bg: #FFFFFF;
+}
+
+.dark {
+  --primary: #FF8C5A;
+  --secondary: #2A6D5E;
+  --bg: #1A1A1A;
+  --grid-line: #2C2C2C;
+  --text: #F5E6D3;
+  --card-bg: #252525;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  background-image: 
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: 30px 30px;
+  min-height: 100vh;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
